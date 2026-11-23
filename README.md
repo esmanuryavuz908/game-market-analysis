@@ -140,6 +140,4 @@ ORDER BY Total_Global_Sales DESC;
 
 ---
 
-## 📄 Lisans
 
-Bu proje [MIT Lisansı](LICENSE) kapsamında açık kaynak olarak sunulmaktadır.
