@@ -112,12 +112,22 @@ ORDER BY Total_Global_Sales DESC;
 * Python 3.9 veya üzeri bir sürümün yüklü olması gerekmektedir.
 
 ### Adımlar
-
 1. Bu depoyu klonlayın:
-   ```bash
-  git clone https://github.com/esmanuryavuz908/game-market-analysis.git
+
+```bash
+git clone https://github.com/esmanuryavuz908/game-market-analysis.git
 cd game-market-analysis
-   ```
+```
+
+2. Sanal ortam oluşturun ve aktif edin (Opsiyonel):
+
+```bash
+python -m venv venv
+# Windows için:
+venv\Scripts\activate
+# macOS/Linux için:
+source venv/bin/activate
+```
 
 2. Sanal ortam oluşturun ve aktif edin (Opsiyonel):
    ```bash
