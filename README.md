@@ -116,7 +116,7 @@ ORDER BY Total_Global_Sales DESC;
 1. Bu depoyu klonlayın:
    ```bash
   git clone https://github.com/esmanuryavuz908/game-market-analysis.git
-  cd game-market-analysis
+cd game-market-analysis
    ```
 
 2. Sanal ortam oluşturun ve aktif edin (Opsiyonel):
