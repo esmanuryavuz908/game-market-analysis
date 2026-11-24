@@ -115,7 +115,7 @@ ORDER BY Total_Global_Sales DESC;
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adiniz/global-game-market-intelligence.git
+   git clone https://github.com/esmanuryavuz908/global-game-market-intelligence.git
    cd global-game-market-intelligence
    ```
 
